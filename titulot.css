@@ -1,0 +1,31 @@
+.card
+{
+	margin-left: 500px;
+	border-radius: 30px;
+	background: linear-gradient(
+    to right,
+    #ff0a6c,
+    #4a3cdb
+  );
+
+  transition: all .2s;
+}
+
+.card-body
+{
+	border-radius: 30px;
+}
+
+.img 
+{
+	border-radius: 30px;
+}
+
+.card-text
+{
+	color: white;
+}
+
+.card:hover, .card:active, .card:focus {
+  -ms-transform: scale(1.1);
+      transform: scale(1.1); }

@@ -1,0 +1,13 @@
+body {
+  background: #212121;
+   position: relative;
+  
+}
+
+.list-group
+{
+	border-radius: 30px;
+	position: fixed;
+}
+
+
